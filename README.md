@@ -1,7 +1,6 @@
 # google-workspace-automations
 Beginner-friendly Google Workspace automation projects using Apps Script.
-# Google Workspace Automations
-
+# Automation Portfolio
 This repository contains beginner-friendly automation projects built with
 Google Apps Script.
 
